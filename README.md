@@ -10,7 +10,7 @@
 
 ## Todo
 <div>
-  <p>Chapter1 들어가며 ✅(5/21)<br>
+  <p font-size="1.5rem">Chapter1 들어가며 ✅(5/21)<br>
   Chapter2 스프링 시작하기 ✅(5/23)<br>
   Chapter3 스프링 DI ✅(5/25)<br>
   Chapter4 의존 자동 주입<br>
