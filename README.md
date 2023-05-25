@@ -13,6 +13,7 @@
   <p font-size="1.5rem">Chapter1 들어가며 ✅(5/21)<br>
   https://velog.io/@rhalstjr1999/%EB%93%A4%EC%96%B4%EA%B0%80%EB%A9%B0<br>
   Chapter2 스프링 시작하기 ✅(5/23)<br>
+  https://velog.io/@rhalstjr1999/Chapter2.-%EC%8A%A4%ED%94%84%EB%A7%81-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0<br>
   Chapter3 스프링 DI ✅(5/25)<br>
   Chapter4 의존 자동 주입<br>
   Chapter5 컴포넌트 스캔<br>
