@@ -11,6 +11,7 @@
 ## Todo
 <div>
   <p font-size="1.5rem">Chapter1 들어가며 ✅(5/21)<br>
+  https://velog.io/@rhalstjr1999/%EB%93%A4%EC%96%B4%EA%B0%80%EB%A9%B0<br>
   Chapter2 스프링 시작하기 ✅(5/23)<br>
   Chapter3 스프링 DI ✅(5/25)<br>
   Chapter4 의존 자동 주입<br>
