@@ -9,7 +9,7 @@ public class AppContext {
     //@Bean 애노테이션은 해당 메서드가 생성한 객체를 스프링이 관리하는 빈 객체로 등록하게 함
     @Bean
     //chap02.Greeter라는 빈(Bean) 객체와 greeter라는 빈 객체 이름
-    //빈 객체 이름은 실제 빈 객체를 가리성
+    //빈 객체 이름은 실제 빈 객체를 가리킴
     public Greeter greeter() {
         Greeter g = new Greeter();
         g.setFormat("%s, 안녕하세요!");
