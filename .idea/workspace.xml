@@ -11,36 +11,7 @@
       <change afterPath="$PROJECT_DIR$/../food-project-test/src/main/java/com/example/foodprojecttest/UserRepository.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../food-project-test/src/main/resources/templates/home.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../food-project-test/src/main/resources/templates/test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap02/AppContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap02/Greeter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap02/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/main/MainForImport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/main/MainForSpring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/main/MainForSpring2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/main/config/AppConfImport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/main/config/AppCtx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/main/config/AppCtx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/main/config/AppCtx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/spring/Assembler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/spring/ChangePasswordService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/spring/DuplicateMemberException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/spring/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/spring/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/spring/MemberDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/spring/MemberInfoPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/spring/MemberListPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/spring/MemberNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/spring/MemberPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/spring/MemberRegisterService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/spring/RegisterRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/spring/VersionPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/spring/WrongIdPasswordException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,7 +159,8 @@
       <workItem from="1684649370523" duration="18625000" />
       <workItem from="1684928389611" duration="12855000" />
       <workItem from="1684997018101" duration="662000" />
-      <workItem from="1684997790368" duration="670000" />
+      <workItem from="1684997790368" duration="2231000" />
+      <workItem from="1685076463821" duration="25000" />
     </task>
     <servers />
   </component>
