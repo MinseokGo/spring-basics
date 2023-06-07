@@ -5,13 +5,83 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="37deccc5-f5e0-4bf3-bfef-7eec00772184" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/Controller/TestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../food-project-test/src/main/java/com/example/foodprojecttest/Controller/TestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../food-project-test/src/main/java/com/example/foodprojecttest/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../food-project-test/src/main/java/com/example/foodprojecttest/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../food-project-test/src/main/resources/templates/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../food-project-test/src/main/resources/templates/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FSP-backend/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FSP-backend/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FSP-backend/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FSP-backend/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FSP-backend/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FSP-backend/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FSP-backend/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FSP-backend/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FSP-backend/src/main/java/com/example/fspbackend/DAO/PostDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FSP-backend/src/main/java/com/example/fspbackend/DAO/ShopDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FSP-backend/src/main/java/com/example/fspbackend/FspBackendApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FSP-backend/src/main/java/com/example/fspbackend/Model/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FSP-backend/src/main/java/com/example/fspbackend/Model/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FSP-backend/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FSP-backend/src/test/java/com/example/fspbackend/FspBackendApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap04/config/AppCtx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap04/main/MainForSpring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap04/spring/Assembler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap04/spring/ChangePasswordService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap04/spring/DuplicateMemberException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap04/spring/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap04/spring/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap04/spring/MemberDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap04/spring/MemberInfoPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap04/spring/MemberListPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap04/spring/MemberNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap04/spring/MemberPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap04/spring/MemberRegisterService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap04/spring/MemberSummaryPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap04/spring/RegisterRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap04/spring/VersionPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap04/spring/WrongIdPasswordException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/main/MainForImport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap03/main/MainForImport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/main/MainForSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap03/main/MainForSpring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/main/MainForSpring2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap03/main/MainForSpring2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/main/config/AppConfImport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap03/main/config/AppConfImport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/main/config/AppCtx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap03/main/config/AppCtx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/main/config/AppCtx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap03/main/config/AppCtx1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/main/config/AppCtx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap03/main/config/AppCtx2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/spring/Assembler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap03/spring/Assembler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/spring/ChangePasswordService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap03/spring/ChangePasswordService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/spring/DuplicateMemberException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap03/spring/DuplicateMemberException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/spring/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap03/spring/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/spring/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap03/spring/Member.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/spring/MemberDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap03/spring/MemberDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/spring/MemberInfoPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap03/spring/MemberInfoPrinter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/spring/MemberListPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap03/spring/MemberListPrinter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/spring/MemberNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap03/spring/MemberNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/spring/MemberPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap03/spring/MemberPrinter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/spring/MemberRegisterService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap03/spring/MemberRegisterService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/spring/RegisterRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap03/spring/RegisterRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/spring/VersionPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap03/spring/VersionPrinter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/spring/WrongIdPasswordException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap03/spring/WrongIdPasswordException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main/MainForImport.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main/MainForSpring.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main/MainForSpring2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main/config/AppConfImport.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main/config/AppCtx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main/config/AppCtx1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main/config/AppCtx2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/Assembler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/ChangePasswordService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/DuplicateMemberException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/Member.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/MemberDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/MemberInfoPrinter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/MemberListPrinter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/MemberNotFoundException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/MemberPrinter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/MemberRegisterService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/RegisterRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/VersionPrinter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/WrongIdPasswordException.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +96,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -46,33 +116,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/minseokgo/Documents/GitHub/spring-basics&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;프로젝트&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;1abee3a3eb71f1ca7e5503ec0cfcf082&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/minseokgo/Documents/GitHub/spring-basics/src/main/java/chap04",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "프로젝트",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "spring.configuration.checksum": "1abee3a3eb71f1ca7e5503ec0cfcf082",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/chap04" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/main/config" />
       <recent name="$PROJECT_DIR$/src/main/java/main" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="chap04.config" />
+      <recent name="chap04.main" />
+    </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.MainForImport">
+  <component name="RunManager" selected="애플리케이션.MainForSpring">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap02.Main" />
       <module name="spring-basics" />
@@ -100,11 +179,11 @@
       </method>
     </configuration>
     <configuration name="MainForImport" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.MainForImport" />
+      <option name="MAIN_CLASS_NAME" value="chap03.main.MainForImport" />
       <module name="spring-basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.*" />
+          <option name="PATTERN" value="chap04.main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +192,11 @@
       </method>
     </configuration>
     <configuration name="MainForSpring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.MainForSpring" />
+      <option name="MAIN_CLASS_NAME" value="chap04.main.MainForSpring" />
       <module name="spring-basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.*" />
+          <option name="PATTERN" value="chap04.main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +205,11 @@
       </method>
     </configuration>
     <configuration name="MainForSpring2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.MainForSpring2" />
+      <option name="MAIN_CLASS_NAME" value="chap03.main.MainForSpring2" />
       <module name="spring-basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.*" />
+          <option name="PATTERN" value="chap04.main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,9 +219,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.MainForSpring" />
         <item itemvalue="애플리케이션.MainForImport" />
         <item itemvalue="애플리케이션.MainForSpring2" />
-        <item itemvalue="애플리케이션.MainForSpring" />
         <item itemvalue="애플리케이션.Main2" />
         <item itemvalue="애플리케이션.Main" />
       </list>
@@ -161,6 +240,10 @@
       <workItem from="1684997018101" duration="662000" />
       <workItem from="1684997790368" duration="2231000" />
       <workItem from="1685076463821" duration="25000" />
+      <workItem from="1685606654344" duration="250000" />
+      <workItem from="1685855590859" duration="738000" />
+      <workItem from="1686122233093" duration="397000" />
+      <workItem from="1686122657007" duration="8978000" />
     </task>
     <servers />
   </component>
