@@ -20,44 +20,6 @@
       <change afterPath="$PROJECT_DIR$/../FSP-backend/src/main/java/com/example/fspbackend/Model/Shop.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../FSP-backend/src/main/resources/application.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../FSP-backend/src/test/java/com/example/fspbackend/FspBackendApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap05/config/AppCtx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap05/main/MainForSpring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap05/spring/Assembler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap05/spring/ChangePasswordService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap05/spring/DuplicateMemberException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap05/spring/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap05/spring/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap05/spring/MemberDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap05/spring/MemberInfoPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap05/spring/MemberListPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap05/spring/MemberNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap05/spring/MemberPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap05/spring/MemberRegisterService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap05/spring/MemberSummaryPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap05/spring/RegisterRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap05/spring/VersionPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap05/spring/WrongIdPasswordException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap06/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap06/main/config/AppCtx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap06/spring/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap06/spring/Client2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap04/config/AppCtx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap04/config/AppCtx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap04/main/MainForSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap04/main/MainForSpring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap04/spring/ChangePasswordService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap04/spring/ChangePasswordService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap04/spring/MemberDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap04/spring/MemberDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap04/spring/MemberInfoPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap04/spring/MemberInfoPrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap04/spring/MemberListPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap04/spring/MemberListPrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap04/spring/MemberPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap04/spring/MemberPrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap04/spring/MemberRegisterService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap04/spring/MemberRegisterService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chap04/config/AppCtx.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chap04/config/AppCtx.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chap04/main/MainForSpring.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chap04/main/MainForSpring.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chap04/spring/ChangePasswordService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chap04/spring/ChangePasswordService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chap04/spring/MemberDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chap04/spring/MemberDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chap04/spring/MemberInfoPrinter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chap04/spring/MemberInfoPrinter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chap04/spring/MemberListPrinter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chap04/spring/MemberListPrinter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chap04/spring/MemberPrinter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chap04/spring/MemberPrinter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chap04/spring/MemberRegisterService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chap04/spring/MemberRegisterService.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -221,7 +183,7 @@
       <workItem from="1685606654344" duration="250000" />
       <workItem from="1685855590859" duration="738000" />
       <workItem from="1686122233093" duration="397000" />
-      <workItem from="1686122657007" duration="15730000" />
+      <workItem from="1686122657007" duration="16365000" />
     </task>
     <servers />
   </component>
