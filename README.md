@@ -16,11 +16,11 @@
   https://velog.io/@rhalstjr1999/Chapter2.-%EC%8A%A4%ED%94%84%EB%A7%81-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0<br><br>
   Chapter3 스프링 DI ✅(5/25)<br>
   <br><br>
-  Chapter4 의존 자동 주입<br>
+  Chapter4 의존 자동 주입<br> ✅(6/7)
     <br><br>
-  Chapter5 컴포넌트 스캔<br>
+  Chapter5 컴포넌트 스캔<br> ✅(6/8)
     <br><br>
-  Chapter6 빈 라이프사이클과 범위<br>
+  Chapter6 빈 라이프사이클과 범위<br> ✅(6/8)
     <br><br>
   Chapter7 AOP 프로그래밍<br>
     <br><br>
