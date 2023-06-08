@@ -1,7 +1,7 @@
-package chap04.main;
+package chap05.main;
 
-import chap04.config.AppCtx;
-import chap04.spring.*;
+import chap05.config.AppCtx;
+import chap05.spring.*;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 

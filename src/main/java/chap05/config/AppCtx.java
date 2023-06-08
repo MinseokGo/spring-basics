@@ -1,9 +1,6 @@
-package chap04.config;
+package chap05.config;
 
-import chap04.spring.MemberDao;
-import chap04.spring.MemberPrinter;
-import chap04.spring.MemberSummaryPrinter;
-import chap04.spring.VersionPrinter;
+import chap05.spring.*;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;

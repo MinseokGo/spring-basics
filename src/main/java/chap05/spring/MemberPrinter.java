@@ -1,4 +1,4 @@
-package chap04.spring;
+package chap05.spring;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.lang.Nullable;
