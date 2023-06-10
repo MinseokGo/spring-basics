@@ -2,6 +2,7 @@ package chap07.config;
 
 import chap07.Calculator;
 import chap07.RecCalculator;
+import chap07.aspect.CacheAspect;
 import chap07.aspect.ExeTimeAspect;
 
 import org.springframework.context.annotation.Bean;
@@ -10,9 +11,13 @@ import org.springframework.context.annotation.EnableAspectJAutoProxy;
 
 @Configuration
 @EnableAspectJAutoProxy
-//아래는 인터페이스가 아닌 자바 클래스를 상속받아 프록시를 생성
-//@EnableAspectJAutoProxy(proxyTargetClass = true)
-public class AppCtx {
+public class AppCtxWithCache {
+    //cache보다 exeTime을 먼저 선언하면 실행시간이 전부 뜸..
+    @Bean
+    public CacheAspect cacheAspect() {
+        return new CacheAspect();
+    }
+
     @Bean
     public ExeTimeAspect exeTimeAspect() {
         return new ExeTimeAspect();

@@ -5,15 +5,19 @@ import org.aspectj.lang.Signature;
 import org.aspectj.lang.annotation.Around;
 import org.aspectj.lang.annotation.Aspect;
 import org.aspectj.lang.annotation.Pointcut;
+import org.springframework.core.annotation.Order;
 
 import java.util.Arrays;
 
 @Aspect
+@Order(1)
 public class ExeTimeAspect {
     //chap07 패키지나 그 하위 패키지에 속한 빈 객체의 public 메서드에
     //@Around가 붙은 measure() 메서드를 적용
     @Pointcut("execution(public * chap07.*.*(*))")
-    private void publicTarget() {}
+    //@Pointcut("execution(public * chap07.RecCalculator.factorial(*))")
+    //@Pointcut("execution(public * chap07.Calculator.factorial(*))")
+    public void publicTarget() {}
 
     @Around("publicTarget()")
     public Object measure(ProceedingJoinPoint joinPoint) throws Throwable {

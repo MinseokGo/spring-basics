@@ -20,16 +20,16 @@
       <change afterPath="$PROJECT_DIR$/../FSP-backend/src/main/java/com/example/fspbackend/Model/Shop.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../FSP-backend/src/main/resources/application.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../FSP-backend/src/test/java/com/example/fspbackend/FspBackendApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap07/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap07/ExeTimeCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap07/ImpeCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap07/RecCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap07/aspect/ExeTimeAspect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap07/config/AppCtx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap07/main/MainAspect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap07/main/MainProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap07/aspect/CacheAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap07/config/AppCtxWithCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap07/main/MainAspectWithCache.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chap07/aspect/ExeTimeAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap07/aspect/ExeTimeAspect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chap07/config/AppCtx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap07/config/AppCtx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chap07/main/MainAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap07/main/MainAspect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chap07/aspect/ExeTimeAspect.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chap07/aspect/ExeTimeAspect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chap07/config/AppCtx.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chap07/config/AppCtx.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chap07/main/MainAspect.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chap07/main/MainAspect.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +105,7 @@
       <recent name="chap04.main" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.MainAspect">
+  <component name="RunManager" selected="애플리케이션.MainAspectWithCache">
     <configuration name="MainAspect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap07.main.MainAspect" />
       <module name="spring-basics" />
@@ -119,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainForImport" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap03.main.MainForImport" />
+    <configuration name="MainAspectWithCache" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap07.main.MainAspectWithCache" />
       <module name="spring-basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chap05.main.*" />
+          <option name="PATTERN" value="chap07.main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -173,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.MainAspectWithCache" />
         <item itemvalue="애플리케이션.MainAspect" />
         <item itemvalue="애플리케이션.MainProxy" />
         <item itemvalue="애플리케이션.chap06.main.Main" />
         <item itemvalue="애플리케이션.MainForSpring" />
-        <item itemvalue="애플리케이션.MainForImport" />
       </list>
     </recent_temporary>
   </component>
@@ -199,7 +199,7 @@
       <workItem from="1686122233093" duration="397000" />
       <workItem from="1686122657007" duration="16365000" />
       <workItem from="1686384082979" duration="4879000" />
-      <workItem from="1686392578915" duration="3087000" />
+      <workItem from="1686392578915" duration="6867000" />
     </task>
     <servers />
   </component>
