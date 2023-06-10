@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal" created-in="IU-231.8109.175">
+    <data-source name="spring5fs@localhost" uuid="3207af96-83fd-4810-a8b9-b25804ec4183">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MYSQL" exact-version="0" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>spring5</user-name>
+      <schema-mapping />
+    </data-source>
+  </component>
+</project>
