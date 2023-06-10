@@ -22,7 +22,7 @@
     <br><br>
   Chapter6 빈 라이프사이클과 범위 ✅(6/8)<br>
     <br><br>
-  Chapter7 AOP 프로그래밍<br>
+  Chapter7 AOP 프로그래밍 ✅(6/10)<br>
     <br><br>
   Chapter8 DB 연동<br>
     <br><br>
