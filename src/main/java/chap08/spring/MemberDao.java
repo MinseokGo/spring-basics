@@ -1,12 +1,12 @@
 package chap08.spring;
 
 import org.springframework.jdbc.core.JdbcTemplate;
-import org.springframework.jdbc.core.RowMapper;
+import org.springframework.jdbc.support.GeneratedKeyHolder;
+import org.springframework.jdbc.support.KeyHolder;
 
 import javax.sql.DataSource;
-import java.sql.ResultSet;
-import java.sql.SQLException;
-import java.util.Collection;
+import java.sql.PreparedStatement;
+import java.sql.Timestamp;
 import java.util.List;
 
 public class MemberDao {
@@ -16,7 +16,39 @@ public class MemberDao {
         this.jdbcTemplate = new JdbcTemplate(dataSource);
     }
 
-    public Collection<Member> selectAll() {
+    public void insert(final Member member) {
+        KeyHolder keyHolder = new GeneratedKeyHolder();
+
+        jdbcTemplate.update(con -> {
+            PreparedStatement pstmt = con.prepareStatement(
+                    "insert into MEMBER (EMAIL, PASSWORD, NAME, REGDATE) " +
+                            "values (?, ?, ?, ?)",
+                    new String[] {"ID"});
+            pstmt.setString(1, member.getEmail());
+            pstmt.setString(2, member.getPassword());
+            pstmt.setString(3, member.getName());
+            pstmt.setTimestamp(4, Timestamp.valueOf(member.getRegisterDateTime()));
+
+            return pstmt;
+        }, keyHolder);
+        Number keyValue = keyHolder.getKey();
+        member.setId(keyValue.longValue());
+    }
+
+    public void update(Member member) {
+        jdbcTemplate.update(
+                "update MEMBER set NAME = ?, PASSWORD = ? where EMAIL = ?",
+                member.getName(), member.getPassword(), member.getEmail());
+    }
+
+    public int count() {
+        Integer count = jdbcTemplate.queryForObject(
+                "select count(*) from MEMBER", Integer.class);
+
+        return count;
+    }
+
+    public List<Member> selectAll() {
         List<Member> results = jdbcTemplate.query(
                 "select * from MEMBER",
                     new MemberRowMapper());
