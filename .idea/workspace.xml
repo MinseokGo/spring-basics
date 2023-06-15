@@ -20,15 +20,8 @@
       <change afterPath="$PROJECT_DIR$/../FSP-backend/src/main/java/com/example/fspbackend/Model/Shop.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../FSP-backend/src/main/resources/application.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../FSP-backend/src/test/java/com/example/fspbackend/FspBackendApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap08/main/MainForMemberDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e20380f8-0cd4-4c55-92a9-ef2509d2ba43.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/e20380f8-0cd4-4c55-92a9-ef2509d2ba43.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap08/config/AppCtx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap08/config/AppCtx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap08/config/DBConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap08/dbquery/DBQuery.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap08/spring/MemberDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap08/spring/MemberDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap08/spring/MemberRowMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap08/spring/MemberRowMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chap07/main/MainAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap07/main/MainAspect.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +109,7 @@
       <recent name="chap04.main" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.MainForMemberDao">
+  <component name="RunManager" selected="애플리케이션.MainAspect">
     <configuration name="MainAspect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap07.main.MainAspect" />
       <module name="spring-basics" />
@@ -184,10 +177,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.MainAspect" />
         <item itemvalue="애플리케이션.MainForMemberDao" />
         <item itemvalue="애플리케이션.chap06.main.Main" />
         <item itemvalue="애플리케이션.MainProxy" />
-        <item itemvalue="애플리케이션.MainAspect" />
         <item itemvalue="애플리케이션.MainAspectWithCache" />
       </list>
     </recent_temporary>
@@ -213,7 +206,7 @@
       <workItem from="1686392578915" duration="20410000" />
       <workItem from="1686560249071" duration="1009000" />
       <workItem from="1686561296665" duration="130000" />
-      <workItem from="1686561471122" duration="5135000" />
+      <workItem from="1686561471122" duration="12708000" />
     </task>
     <servers />
   </component>
