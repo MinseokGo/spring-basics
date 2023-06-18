@@ -20,8 +20,6 @@
       <change afterPath="$PROJECT_DIR$/../FSP-backend/src/main/java/com/example/fspbackend/Model/Shop.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../FSP-backend/src/main/resources/application.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../FSP-backend/src/test/java/com/example/fspbackend/FspBackendApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap07/main/MainAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap07/main/MainAspect.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -206,7 +204,7 @@
       <workItem from="1686392578915" duration="20410000" />
       <workItem from="1686560249071" duration="1009000" />
       <workItem from="1686561296665" duration="130000" />
-      <workItem from="1686561471122" duration="12708000" />
+      <workItem from="1686561471122" duration="15107000" />
     </task>
     <servers />
   </component>
