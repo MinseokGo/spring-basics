@@ -20,6 +20,13 @@
       <change afterPath="$PROJECT_DIR$/../FSP-backend/src/main/java/com/example/fspbackend/Model/Shop.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../FSP-backend/src/main/resources/application.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../FSP-backend/src/test/java/com/example/fspbackend/FspBackendApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap08/main/MainForCPS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/logback.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chap08/config/AppCtx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap08/config/AppCtx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chap08/spring/ChangePasswordService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap08/spring/ChangePasswordService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chap08/spring/WrongIdPasswordException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap08/spring/WrongIdPasswordException.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +114,7 @@
       <recent name="chap04.main" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.MainAspect">
+  <component name="RunManager" selected="애플리케이션.MainForCPS">
     <configuration name="MainAspect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap07.main.MainAspect" />
       <module name="spring-basics" />
@@ -121,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainAspectWithCache" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap07.main.MainAspectWithCache" />
+    <configuration name="MainForCPS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap08.main.MainForCPS" />
       <module name="spring-basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chap07.main.*" />
+          <option name="PATTERN" value="chap08.main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.MainForCPS" />
         <item itemvalue="애플리케이션.MainAspect" />
         <item itemvalue="애플리케이션.MainForMemberDao" />
         <item itemvalue="애플리케이션.chap06.main.Main" />
         <item itemvalue="애플리케이션.MainProxy" />
-        <item itemvalue="애플리케이션.MainAspectWithCache" />
       </list>
     </recent_temporary>
   </component>
@@ -204,7 +211,7 @@
       <workItem from="1686392578915" duration="20410000" />
       <workItem from="1686560249071" duration="1009000" />
       <workItem from="1686561296665" duration="130000" />
-      <workItem from="1686561471122" duration="15107000" />
+      <workItem from="1686561471122" duration="22029000" />
     </task>
     <servers />
   </component>
