@@ -11,6 +11,7 @@ public class MainForCPS {
         AnnotationConfigApplicationContext ctx = new AnnotationConfigApplicationContext(AppCtx.class);
         ChangePasswordService cps = ctx.getBean("changePasswordService", ChangePasswordService.class);
 
+        //
         try {
             cps.changePassword("rhalstjr1999@naver.com", "1234", "1111");
             System.out.println("change password");
