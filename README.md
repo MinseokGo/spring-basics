@@ -24,7 +24,7 @@
     <br><br>
   Chapter7 AOP 프로그래밍 ✅(6/10)<br>
     <br><br>
-  Chapter8 DB 연동<br>
+  Chapter8 DB 연동 ✅(6/20)<br>
     <br><br>
   Chapter9 스프링 MVC 시작하기<br>
     <br><br>
