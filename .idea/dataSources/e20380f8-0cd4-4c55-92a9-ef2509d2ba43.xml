@@ -1,30 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dataSource name="@localhost">
   <database-model serializer="dbm" dbms="MYSQL" family-id="MYSQL" format-version="4.48">
-    <root id="1">
-      <DefaultCasing>mixed/mixed</DefaultCasing>
-      <DefaultEngine>InnoDB</DefaultEngine>
-      <DefaultTmpEngine>InnoDB</DefaultTmpEngine>
-      <Grants>spring5fs|schema||spring5|localhost|ALTER|G
-spring5fs|schema||spring5|localhost|ALTER ROUTINE|G
-spring5fs|schema||spring5|localhost|CREATE|G
-spring5fs|schema||spring5|localhost|CREATE ROUTINE|G
-spring5fs|schema||spring5|localhost|CREATE TEMPORARY TABLES|G
-spring5fs|schema||spring5|localhost|CREATE VIEW|G
-spring5fs|schema||spring5|localhost|DELETE|G
-spring5fs|schema||spring5|localhost|DROP|G
-spring5fs|schema||spring5|localhost|EVENT|G
-spring5fs|schema||spring5|localhost|EXECUTE|G
-spring5fs|schema||spring5|localhost|INDEX|G
-spring5fs|schema||spring5|localhost|INSERT|G
-spring5fs|schema||spring5|localhost|LOCK TABLES|G
-spring5fs|schema||spring5|localhost|REFERENCES|G
-spring5fs|schema||spring5|localhost|SELECT|G
-spring5fs|schema||spring5|localhost|SHOW VIEW|G
-spring5fs|schema||spring5|localhost|TRIGGER|G
-spring5fs|schema||spring5|localhost|UPDATE|G</Grants>
-      <ServerVersion>8.0.33</ServerVersion>
-    </root>
+    <root id="1"/>
     <collation id="2" parent="1" name="armscii8_general_ci">
       <Charset>armscii8</Charset>
       <DefaultForCharset>1</DefaultForCharset>

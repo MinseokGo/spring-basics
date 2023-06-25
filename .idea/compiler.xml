@@ -10,5 +10,8 @@
         <module name="spring-basics" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mvc" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
