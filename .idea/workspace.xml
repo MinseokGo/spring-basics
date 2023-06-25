@@ -20,7 +20,15 @@
       <change afterPath="$PROJECT_DIR$/../FSP-backend/src/main/java/com/example/fspbackend/Model/Shop.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../FSP-backend/src/main/resources/application.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../FSP-backend/src/test/java/com/example/fspbackend/FspBackendApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e20380f8-0cd4-4c55-92a9-ef2509d2ba43.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/e20380f8-0cd4-4c55-92a9-ef2509d2ba43.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvc/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvc/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvc/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvc/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvc/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvc/mvc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvc/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvc/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvc/src/main/webapp/index.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -207,7 +215,7 @@
       <workItem from="1686561296665" duration="130000" />
       <workItem from="1686561471122" duration="25737000" />
       <workItem from="1687674698828" duration="1082000" />
-      <workItem from="1687680461006" duration="61000" />
+      <workItem from="1687680461006" duration="379000" />
     </task>
     <servers />
   </component>
