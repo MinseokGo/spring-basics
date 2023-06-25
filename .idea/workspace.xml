@@ -20,107 +20,7 @@
       <change afterPath="$PROJECT_DIR$/../FSP-backend/src/main/java/com/example/fspbackend/Model/Shop.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../FSP-backend/src/main/resources/application.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../FSP-backend/src/test/java/com/example/fspbackend/FspBackendApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-basics/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-basics/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-basics/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-basics/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-basics/src/main/java/chap02/AppContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-basics/src/main/java/chap02/Greeter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-basics/src/main/java/chap02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-basics/src/main/java/chap02/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-basics/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-basics/src/main/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap02/AppContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap02/AppContext.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap02/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap02/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap03/main/MainForImport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap03/main/MainForImport.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap03/main/MainForSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap03/main/MainForSpring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap03/main/MainForSpring2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap03/main/MainForSpring2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap03/main/config/AppConfImport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap03/main/config/AppConfImport.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap03/main/config/AppCtx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap03/main/config/AppCtx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap03/main/config/AppCtx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap03/main/config/AppCtx1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap03/main/config/AppCtx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap03/main/config/AppCtx2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap03/spring/Assembler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap03/spring/Assembler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap03/spring/ChangePasswordService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap03/spring/ChangePasswordService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap03/spring/DuplicateMemberException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap03/spring/DuplicateMemberException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap03/spring/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap03/spring/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap03/spring/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap03/spring/Member.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap03/spring/MemberDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap03/spring/MemberDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap03/spring/MemberInfoPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap03/spring/MemberInfoPrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap03/spring/MemberListPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap03/spring/MemberListPrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap03/spring/MemberNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap03/spring/MemberNotFoundException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap03/spring/MemberPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap03/spring/MemberPrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap03/spring/MemberRegisterService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap03/spring/MemberRegisterService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap03/spring/RegisterRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap03/spring/RegisterRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap03/spring/VersionPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap03/spring/VersionPrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap03/spring/WrongIdPasswordException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap03/spring/WrongIdPasswordException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap04/config/AppCtx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap04/config/AppCtx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap04/main/MainForSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap04/main/MainForSpring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap04/spring/Assembler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap04/spring/Assembler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap04/spring/ChangePasswordService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap04/spring/ChangePasswordService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap04/spring/DuplicateMemberException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap04/spring/DuplicateMemberException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap04/spring/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap04/spring/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap04/spring/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap04/spring/Member.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap04/spring/MemberDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap04/spring/MemberDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap04/spring/MemberInfoPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap04/spring/MemberInfoPrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap04/spring/MemberListPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap04/spring/MemberListPrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap04/spring/MemberNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap04/spring/MemberNotFoundException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap04/spring/MemberPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap04/spring/MemberPrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap04/spring/MemberRegisterService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap04/spring/MemberRegisterService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap04/spring/MemberSummaryPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap04/spring/MemberSummaryPrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap04/spring/RegisterRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap04/spring/RegisterRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap04/spring/VersionPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap04/spring/VersionPrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap04/spring/WrongIdPasswordException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap04/spring/WrongIdPasswordException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap05/config/AppCtx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap05/config/AppCtx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap05/main/MainForSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap05/main/MainForSpring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap05/spring/Assembler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap05/spring/Assembler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap05/spring/ChangePasswordService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap05/spring/ChangePasswordService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap05/spring/DuplicateMemberException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap05/spring/DuplicateMemberException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap05/spring/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap05/spring/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap05/spring/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap05/spring/Member.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap05/spring/MemberDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap05/spring/MemberDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap05/spring/MemberInfoPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap05/spring/MemberInfoPrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap05/spring/MemberListPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap05/spring/MemberListPrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap05/spring/MemberNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap05/spring/MemberNotFoundException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap05/spring/MemberPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap05/spring/MemberPrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap05/spring/MemberRegisterService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap05/spring/MemberRegisterService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap05/spring/MemberSummaryPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap05/spring/MemberSummaryPrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap05/spring/RegisterRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap05/spring/RegisterRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap05/spring/VersionPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap05/spring/VersionPrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap05/spring/WrongIdPasswordException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap05/spring/WrongIdPasswordException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap06/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap06/main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap06/main/config/AppCtx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap06/main/config/AppCtx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap06/spring/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap06/spring/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap06/spring/Client2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap06/spring/Client2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap07/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap07/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap07/ExeTimeCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap07/ExeTimeCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap07/ImpeCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap07/ImpeCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap07/RecCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap07/RecCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap07/aspect/CacheAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap07/aspect/CacheAspect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap07/aspect/ExeTimeAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap07/aspect/ExeTimeAspect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap07/config/AppCtx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap07/config/AppCtx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap07/config/AppCtxWithCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap07/config/AppCtxWithCache.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap07/main/MainAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap07/main/MainAspect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap07/main/MainAspectWithCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap07/main/MainAspectWithCache.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap07/main/MainProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap07/main/MainProxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap08/config/AppCtx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap08/config/AppCtx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap08/dbquery/DBQuery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap08/dbquery/DBQuery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap08/main/MainForCPS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap08/main/MainForCPS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap08/main/MainForMemberDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap08/main/MainForMemberDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap08/spring/DuplicateMemberException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap08/spring/DuplicateMemberException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap08/spring/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap08/spring/Member.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap08/spring/MemberDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap08/spring/MemberDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap08/spring/MemberInfoPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap08/spring/MemberInfoPrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap08/spring/MemberListPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap08/spring/MemberListPrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap08/spring/MemberNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap08/spring/MemberNotFoundException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap08/spring/MemberPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap08/spring/MemberPrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap08/spring/MemberRegisterService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap08/spring/MemberRegisterService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap08/spring/MemberRowMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap08/spring/MemberRowMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap08/spring/RegisterRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap08/spring/RegisterRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap08/spring/WrongIdPasswordException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap08/spring/WrongIdPasswordException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e20380f8-0cd4-4c55-92a9-ef2509d2ba43.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/e20380f8-0cd4-4c55-92a9-ef2509d2ba43.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,7 +64,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/minseokgo/Documents/GitHub/spring-basics/src/main/java/chap08",
+    "last_opened_file_path": "/Users/minseokgo/Documents/GitHub/spring-basics",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -173,7 +73,7 @@
     "project.structure.last.edited": "모듈",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "spring.configuration.checksum": "1abee3a3eb71f1ca7e5503ec0cfcf082",
     "vue.rearranger.settings.migration": "true"
   },
@@ -307,6 +207,7 @@
       <workItem from="1686561296665" duration="130000" />
       <workItem from="1686561471122" duration="25737000" />
       <workItem from="1687674698828" duration="1082000" />
+      <workItem from="1687680461006" duration="61000" />
     </task>
     <servers />
   </component>

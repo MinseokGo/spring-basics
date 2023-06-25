@@ -4,5 +4,6 @@
     <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/mvc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-basics" vcs="Git" />
   </component>
 </project>
