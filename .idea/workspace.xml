@@ -20,13 +20,13 @@
       <change afterPath="$PROJECT_DIR$/../FSP-backend/src/main/java/com/example/fspbackend/Model/Shop.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../FSP-backend/src/main/resources/application.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../FSP-backend/src/test/java/com/example/fspbackend/FspBackendApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap08/main/MainForCPS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap08/main/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/chap08/config/AppCtx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap08/config/AppCtx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap08/spring/ChangePasswordService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap08/spring/ChangePasswordService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chap08/spring/WrongIdPasswordException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap08/spring/WrongIdPasswordException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chap08/spring/MemberInfoPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap08/spring/MemberInfoPrinter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chap08/config/AppCtx.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chap08/config/AppCtx.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chap08/main/MainForCPS.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chap08/main/MainForCPS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chap08/spring/MemberInfoPrinter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chap08/spring/MemberInfoPrinter.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +114,20 @@
       <recent name="chap04.main" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.MainForCPS">
+  <component name="RunManager" selected="애플리케이션.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap08.main.Main" />
+      <module name="spring-basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chap08.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainAspect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap07.main.MainAspect" />
       <module name="spring-basics" />
@@ -154,19 +167,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainProxy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap07.main.MainProxy" />
-      <module name="spring-basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chap07.aspect.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="chap06.main.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap06.main.Main" />
       <module name="spring-basics" />
@@ -182,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.Main" />
         <item itemvalue="애플리케이션.MainForCPS" />
         <item itemvalue="애플리케이션.MainAspect" />
         <item itemvalue="애플리케이션.MainForMemberDao" />
         <item itemvalue="애플리케이션.chap06.main.Main" />
-        <item itemvalue="애플리케이션.MainProxy" />
       </list>
     </recent_temporary>
   </component>
@@ -211,7 +211,8 @@
       <workItem from="1686392578915" duration="20410000" />
       <workItem from="1686560249071" duration="1009000" />
       <workItem from="1686561296665" duration="130000" />
-      <workItem from="1686561471122" duration="22029000" />
+      <workItem from="1686561471122" duration="25737000" />
+      <workItem from="1687674698828" duration="1082000" />
     </task>
     <servers />
   </component>

@@ -1,7 +1,6 @@
 package chap08.config;
 
-import chap08.spring.ChangePasswordService;
-import chap08.spring.MemberDao;
+import chap08.spring.*;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.apache.tomcat.jdbc.pool.DataSource;
@@ -12,10 +11,10 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 @Configuration
 @EnableTransactionManagement
 public class AppCtx {
+
     @Bean(destroyMethod = "close")
     public DataSource dataSource() {
         DataSource ds = new DataSource();
-
         ds.setDriverClassName("com.mysql.cj.jdbc.Driver");
         ds.setUrl("jdbc:mysql://localhost/spring5fs?characterEncoding=utf8");
         ds.setUsername("spring5");
@@ -26,7 +25,6 @@ public class AppCtx {
         ds.setTestWhileIdle(true);
         ds.setMinEvictableIdleTimeMillis(60000 * 3);
         ds.setTimeBetweenEvictionRunsMillis(10 * 1000);
-
         return ds;
     }
 
@@ -34,7 +32,6 @@ public class AppCtx {
     public PlatformTransactionManager transactionManager() {
         DataSourceTransactionManager tm = new DataSourceTransactionManager();
         tm.setDataSource(dataSource());
-
         return tm;
     }
 
@@ -44,10 +41,32 @@ public class AppCtx {
     }
 
     @Bean
-    public ChangePasswordService changePasswordService() {
+    public MemberRegisterService memberRegSvc() {
+        return new MemberRegisterService(memberDao());
+    }
+
+    @Bean
+    public ChangePasswordService changePwdSvc() {
         ChangePasswordService pwdSvc = new ChangePasswordService();
         pwdSvc.setMemberDao(memberDao());
-
         return pwdSvc;
+    }
+
+    @Bean
+    public MemberPrinter memberPrinter() {
+        return new MemberPrinter();
+    }
+
+    @Bean
+    public MemberListPrinter listPrinter() {
+        return new MemberListPrinter(memberDao(), memberPrinter());
+    }
+
+    @Bean
+    public MemberInfoPrinter infoPrinter() {
+        MemberInfoPrinter infoPrinter = new MemberInfoPrinter();
+        infoPrinter.setMemberDao(memberDao());
+        infoPrinter.setPrinter(memberPrinter());
+        return infoPrinter;
     }
 }
